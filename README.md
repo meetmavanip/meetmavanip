@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Meet Mavani</h1>
 
 <h3 align="center">
 Full Stack Web Developer | Software Developer <br>
-Diploma in Computer Engineering, RK University 
+Diploma in Computer Engineering, RK University
 </h3>
 
 <p align="center">
@@ -10,7 +11,15 @@ Diploma in Computer Engineering, RK University
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue"/>
+
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
 </p>
 
 ---
@@ -28,7 +37,7 @@ Diploma in Computer Engineering, RK University
 
 ## 💻 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
 
@@ -68,21 +77,28 @@ Diploma in Computer Engineering, RK University
 
 ### 🏢 HomeStack — Apartment Management System
 
-- **Tech:** SwiftUI, Firebase, Git
+**Tech:** SwiftUI • Firebase • Git
+
 - Apartment management solution
 - Real-time synchronization
 - CRUD operations
 
+---
+
 ### 🛒 Green Basket — E-Commerce Android App
 
-- **Tech:** Java, Firebase
-- Product browsing
-- Cart management
+**Tech:** Java • Firebase
+
+- Grocery shopping application
+- Product browsing & cart management
 - Firebase Authentication
+
+---
 
 ### 📦 VasukiProduct — Inventory Management System
 
-- **Tech:** PHP, Laravel, MySQL, REST API
+**Tech:** PHP • Laravel • MySQL • REST API
+
 - Inventory Management
 - Role-based Authentication
 - Laravel MVC Architecture
@@ -105,10 +121,18 @@ Diploma in Computer Engineering, RK University
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetmavanip&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-- 📧 Email: **meetmavani602@gmail.com**
-- 💼 LinkedIn: www.linkedin.com/in/meet-mavani-3924462a4
+- 📧 **Email:** meetmavani602@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/meet-mavani-3924462a4
 
 ---
 
