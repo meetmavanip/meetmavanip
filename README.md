@@ -89,18 +89,6 @@ Diploma in Computer Engineering, Gujarat Technological University
 
 ---
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 ## 📜 Certifications
 
 - ☁️ Cloud Computing Fundamentals — Infosys Springboard (2024)
