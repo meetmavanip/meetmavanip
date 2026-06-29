@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Full Stack Web Developer | Software Developer <br>
-Diploma in Computer Engineering, Gujarat Technological University
+Diploma in Computer Engineering, RK University 
 </h3>
 
 <p align="center">
