@@ -26,7 +26,7 @@ Diploma in Computer Engineering, RK University
 
 ## 🚀 About Me
 
-- 🎓 Diploma in Computer Engineering – Gujarat Technological University
+- 🎓 Diploma in Computer Engineering – RK University
 - 💻 Full Stack Web Developer specializing in PHP & Laravel
 - 📱 Experience building Web, Android, and iOS applications
 - 🔥 Passionate about scalable web applications, REST APIs, and clean architecture
